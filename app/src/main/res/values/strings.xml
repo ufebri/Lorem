@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Lorem</string>
+    <string name="text_email">Email</string>
+    <string name="text_pwd">Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_or">Or</string>
+    <string name="signup">Sign Up</string>
+    <string name="user_not_found">User not found, try create one</string>
+    <string name="text_username">Username</string>
+    <string name="text_role">Role</string>
+    <string name="success_added_user">Success Added User</string>
+    <string name="retry">Retry</string>
+    <string name="logout">Press back again to exit</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="update_user_success">Update user success</string>
+    <string name="delete_user_success">Delete User Success</string>
+    <string name="text_yes">yes</string>
+    <string name="text_no">no</string>
+    <string name="alert_title_confirm_delete">Confirm with Your Password</string>
+    <string name="text_wrong">Wrong!!</string>
+
+    <string-array name="user_role">
+        <item name="admin">Admin</item>
+        <item name="normal">Normal</item>
+    </string-array>
+</resources>
