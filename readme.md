@@ -10,4 +10,4 @@ Init Version check :
 - [x] another page to handle delete and update the registered data
 
 Sample App is here :
-[Download here](./app/build/outputs/apk/app-debug.apk)
+[Download here](app-debug.apk)
